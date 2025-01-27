@@ -14,6 +14,7 @@ Texto: #FFFFFF
 
 Post linkedin, instagram
 
-[social-post.svg](./social-post.svg)
+- [social-post.svg](./social-post.svg)
+- [social-post-variant-1.svg](./social-post-variant-1.svg)
 
-- Todos os arquivos devem ser submetidos em formato .svg.
+\*Todos os arquivos devem ser submetidos em formato .svg.
